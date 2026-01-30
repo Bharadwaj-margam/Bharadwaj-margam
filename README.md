@@ -1,11 +1,4 @@
-## Hi there 👋
-
-<!--
-**Bharadwaj-margam/Bharadwaj-margam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...# 💫 About Me:
+# 💫 About Me:
 👋 Hi, I’m Margam Bharadwaj,<br>🎓 Final-year B.Tech student at KL University with an aggregate of 9.1 CGPA<br>🤖 Aspiring Artificial Intelligence & Machine Learning enthusiast<br><br>I am an enthusiastic and quick-learning student with a strong interest in Artificial Intelligence and Machine Learning. I have a basic understanding of Python programming and am eager to enhance my skills in data analysis, model training, and AI applications.<br><br>With a strong problem-solving mindset and a passion for continuous learning, I aim to apply emerging technologies to solve real-world challenges. I am motivated to grow, collaborate, and contribute effectively as part of an innovative and forward-thinking team.
 
 
@@ -23,11 +16,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Bharadwaj-margam&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
